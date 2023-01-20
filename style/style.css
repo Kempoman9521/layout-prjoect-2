@@ -18,8 +18,14 @@ body{
     flex: 1;
 }
 
-.boxes{
+.boxes,{
     display: flex;
 }
 
-
+.links{
+    display: flex;
+    flex-direction: column;
+}
+ a{
+   text-decoration: none; 
+ }

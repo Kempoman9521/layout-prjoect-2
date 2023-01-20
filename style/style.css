@@ -14,7 +14,12 @@ body{
     flex: 1;
 }
 
- 
+.content-right, .content-left{
+    flex: 1;
+}
 
+.boxes{
+    display: flex;
+}
 
 

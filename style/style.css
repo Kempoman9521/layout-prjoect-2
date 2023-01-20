@@ -3,6 +3,10 @@ body{
     flex-direction: column;
     height: 100vh;
 }
+*{
+    border-style: solid;
+    padding: 10px;
+}
 
 .header{
     display: flex;

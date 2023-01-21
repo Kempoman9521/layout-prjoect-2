@@ -32,16 +32,14 @@ button{
     flex-direction: column;
 }
 
-.top-text{
-    color: #4C4C47;
-}
 
 .content-left{
 display: flex;
 flex-direction: column;
 width:20em;
 justify-content: space-around;
-align-items:center
+align-items:center;
+background-color: #7E6B8F;
 }
 
 .top{
@@ -55,6 +53,7 @@ align-items:center
     width: 1000px;
     font-size: 20px;
     border-style:solid;
+    color:#E5DCC5;
 }
 
 .box{

@@ -86,6 +86,9 @@ background-color: #7E6B8F;
  .bottom-text{
     width: 1000px;
     font-size: 20px;
+    background-color: #7E6B8F;
+    padding: 30px;
+    border-radius: 10px;
  }
 
  .footer{

@@ -26,6 +26,9 @@ body{
 
 .bottom{
     display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .content-left{

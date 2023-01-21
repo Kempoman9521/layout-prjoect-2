@@ -25,7 +25,9 @@ body{
 }
 
 .content-left{
-
+display: flex;
+flex-direction: column;
+padding: 10em;
 }
 
 

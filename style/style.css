@@ -20,13 +20,18 @@ body{
 
 .content-right, .content-left{
     flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .boxes{
     display: flex;
 }
 
+.content-left{
+    display: flex;
 
+}
 
  a{
    text-decoration: none; 

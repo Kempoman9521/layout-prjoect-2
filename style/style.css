@@ -24,6 +24,11 @@ body{
     flex-direction: column;
 }
 
+.box{
+    width: 100px;
+    height: 100px;
+}
+
 .bottom{
     display: flex;
     flex: 1;

@@ -13,6 +13,7 @@ body{
     display: flex;
     justify-content: space-between;
     height: 7em;
+    align-items: center;
 }
 
 .content{

@@ -46,6 +46,7 @@ align-items:center
 .box{
     width: 100px;
     height: 100px;
+    border-style: solid;
 }
 
 .bottom{

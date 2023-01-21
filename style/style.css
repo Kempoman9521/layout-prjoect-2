@@ -23,6 +23,12 @@ body{
     background-color:#E5DCC5;
 }
 
+.left-buttons, .right-buttons{
+    display: flex;
+    gap: 15px;
+}
+
+
 button{
     padding:10px;
     border-radius: 5px;

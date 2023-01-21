@@ -60,6 +60,7 @@ background-color: #7E6B8F;
     width: 100px;
     height: 100px;
     border-style: solid;
+    border-radius: 15px;
 }
 
 .bottom{

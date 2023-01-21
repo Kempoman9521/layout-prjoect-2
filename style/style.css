@@ -52,7 +52,9 @@ background-color: #7E6B8F;
 .top-text{
     width: 1000px;
     font-size: 20px;
-    border-style:solid;
+    background-color: #7E6B8F;
+    border-radius: 10px;
+    padding: 20px;
 }
 
 .box{

@@ -71,3 +71,8 @@ align-items:center
     width: 1000px;
     font-size: 20px;
  }
+
+ .footer{
+    display: flex;
+    justify-content: center;
+ }

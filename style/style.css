@@ -41,6 +41,7 @@ align-items:center
 
 .top-text{
     width: 1000px;
+    font-size: 20px;
 }
 
 .box{
@@ -66,14 +67,16 @@ align-items:center
 
  a{
    text-decoration: none; 
+   font-size: 20px;
  }
  
  .bottom-text{
     width: 1000px;
-    font-size: 20px;
+    font-size: 30px;
  }
 
  .footer{
     display: flex;
     justify-content: center;
+    font-size: 18px;
  }

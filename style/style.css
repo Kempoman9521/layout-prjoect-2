@@ -32,6 +32,9 @@ justify-content: space-around;
 align-items:center
 }
 
+.top-text{
+    width: 1000px;
+}
 
 .box{
     width: 100px;

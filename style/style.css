@@ -32,6 +32,11 @@ justify-content: space-around;
 align-items:center
 }
 
+.top{
+    display: flex;
+    flex-direction: column;
+}
+
 .top-text{
     width: 1000px;
 }

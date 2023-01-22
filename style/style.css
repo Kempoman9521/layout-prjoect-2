@@ -34,7 +34,8 @@ button{
     border-radius: 5px;
     font-size: 18px;
     border-style: solid;
-    
+    background-color:#36393B;
+    color: white;
 }
 
 .content-right{

@@ -17,6 +17,10 @@ body{
     padding: 5px;
 }
 
+h1{
+    font-size: 38px;
+}
+
 .content{
     display: flex;
     flex: 1;
